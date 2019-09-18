@@ -3,4 +3,8 @@ i
 hello team.
 this is sudhamsu
 this is my demo on git.
-this is different change compared to other.
+<<<<<<< HEAD
+
+=======
+i have changed this on some purpose.
+>>>>>>> feature1
